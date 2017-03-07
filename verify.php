@@ -1,5 +1,5 @@
 <?php
-$proxy = 'xxxx:80';
+$proxy = 'yugisang.kaikongtook.com:21';
 $proxyauth = 'gusavoice@gmail.com:system1508';
 $access_token = 'FqJ3FN92d9X6PbAM/pjc/j62/WbI3/wThTJsRNrou5EaecTUPLk2NFypo53q1Okpxpo86hyu9kHeGS63YR2m93TbYZX4PTTkkz2KC/L5hFZ4CjdTfJ+czn9vYT99TYbKiLPaIh4wXEYDLcNR9bChFQdB04t89/1O/w1cDnyilFU=';
 
